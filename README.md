@@ -1,2 +1,2 @@
 # wpu-ground
-Belajar pengaplikasian WPU untuk web design
+Belajar pengaplikasian Github untuk web design
